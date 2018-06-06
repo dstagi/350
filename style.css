@@ -31,3 +31,7 @@ h1 {
     width:50px;
     text-align: left;
 }
+
+.card {
+    padding: 10px;
+}
