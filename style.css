@@ -1,0 +1,33 @@
+.container {
+    width: 80%;
+}
+
+.logo {
+    height: 50px;
+}
+
+.cardimg {
+    width: 100%;
+}
+
+h1 {
+    color: #12A0D4;
+}
+
+.learnmore {
+    text-align: right;
+    
+}
+
+.caroimg {
+    height: 600px;
+}
+
+.eventcard {
+    padding: 40px;
+}
+
+.loc {
+    width:50px;
+    text-align: left;
+}
